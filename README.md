@@ -9,7 +9,7 @@ Pull in using Composer
 ```
 "require": {
     ...
-    "initworks/laravel-cassandra": "dev-master"
+    "initworks/laravel-cassandra": "^1.0"
 }
 ```
 
