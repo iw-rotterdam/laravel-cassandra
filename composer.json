@@ -1,7 +1,7 @@
 {
     "name": "initworks/laravel-cassandra",
     "description": "Laravel 5 wrapper for Apache Cassandra",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "license": "proprietary",
     "authors": [
         {
